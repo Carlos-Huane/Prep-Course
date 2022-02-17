@@ -1,0 +1,25 @@
+body{
+    background-color: #139487;
+    text-align: center;
+}
+h1{
+    color: aquamarine;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+#thirdDiv{
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    background-color:#86C6F4;
+    padding: 50px;
+    border:30px;
+    border:solid;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+   
+}
